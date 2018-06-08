@@ -1,0 +1,2 @@
+# OCR_Verification
+对比百度AI和谷歌tesseract-ocr对验证码的识别,tesseract需要大量数据做训练
